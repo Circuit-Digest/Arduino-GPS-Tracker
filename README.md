@@ -11,7 +11,7 @@
 
 A cost-effective GPS tracking solution built with Arduino UNO R3, SIM800L GSM module, and NEO-6M GPS module using the GeoLinker Lite library.
 
-![Arduino GPS Tracker Demo](media/image3.gif)
+![Arduino GPS Tracker Demo](https://github.com/Circuit-Digest/Arduino-GPS-Tracker/blob/fd5cdf357ab65dbac70fde1da3a52f706d3732ad/Images/Title%20Image%203.png)
 
 ## 🚀 Features
 
