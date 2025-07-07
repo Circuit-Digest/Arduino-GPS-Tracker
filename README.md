@@ -1,11 +1,11 @@
 # Arduino GPS Tracker with SIM800L and GeoLinker Cloud
 
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/) 
-[![SIM800L](https://img.shields.io/badge/SIM800L-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjkxIDEwTDEzIDIyTDEwLjA5IDEwTDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=)](https://en.wikipedia.org/wiki/SIM800L) 
-[![GPS](https://img.shields.io/badge/GPS-4CAF50?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjkxIDEwTDEzIDIyTDEwLjA5IDEwTDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=)](https://en.wikipedia.org/wiki/Global_Positioning_System) 
-[![GSM](https://img.shields.io/badge/GSM-2196F3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjkxIDEwTDEzIDIyTDEwLjA5IDEwTDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=)](https://en.wikipedia.org/wiki/GSM) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT) 
-[![CircuitDigest](https://img.shields.io/badge/Tutorial-CircuitDigest-blue?style=for-the-badge)](https://circuitdigest.com/microcontroller-projects/arduino-gps-tracker-using-sim800l-and-geolinker-cloud)
+[![SIM800L](https://img.shields.io/badge/SIM800L-FF6B35?style=for-the-badge&logo=mobile&logoColor=white)](https://en.wikipedia.org/wiki/SIM800L) 
+[![GPS](https://img.shields.io/badge/GPS-4CAF50?style=for-the-badge&logo=map-marker&logoColor=white)](https://en.wikipedia.org/wiki/Global_Positioning_System) 
+[![GSM](https://img.shields.io/badge/GSM-2196F3?style=for-the-badge&logo=wifi&logoColor=white)](https://en.wikipedia.org/wiki/GSM) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-FFD700?style=for-the-badge)](https://opensource.org/licenses/MIT) 
+[![CircuitDigest](https://img.shields.io/badge/Tutorial-CircuitDigest-1976D2?style=for-the-badge)](https://circuitdigest.com/microcontroller-projects/arduino-gps-tracker-using-sim800l-and-geolinker-cloud)
 
 A cost-effective GPS tracking solution built with Arduino UNO R3, SIM800L GSM module, and NEO-6M GPS module using the GeoLinker Lite library.
 
