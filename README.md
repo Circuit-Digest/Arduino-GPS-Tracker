@@ -55,7 +55,7 @@ A cost-effective GPS tracking solution built with Arduino UNO R3, SIM800L GSM mo
 
 ## 📚 Documentation
 
-For complete setup instructions, circuit diagrams, code explanation, and troubleshooting, see the full tutorial: [Arduino GPS Tracker Tutorial](https://circuitdigest.com/microcontroller-projects/)
+For complete setup instructions, circuit diagrams, code explanation, and troubleshooting, see the full tutorial: [Arduino GPS Tracker Tutorial](https://circuitdigest.com/microcontroller-projects/arduino-gps-tracker-using-sim800l-and-neo-6m)
 
 ## 🔗 Related Links
 
